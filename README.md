@@ -72,6 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 **A sleek React.js web app that allows users to search for any GitHub profile by username and view key profile details like avatar, bio, join date, and GitHub link. Built for learning and showcasing how to fetch and display real-time data using the GitHub API.**
 
 🛠 **Technologies Used**
+
 **React.js** – Component-based frontend framework
 
 **Axios** – For making HTTP requests to the GitHub API
