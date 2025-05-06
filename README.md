@@ -69,6 +69,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+**A sleek React.js web app that allows users to search for any GitHub profile by username and view key profile details like avatar, bio, join date, and GitHub link. Built for learning and showcasing how to fetch and display real-time data using the GitHub API.**
+
+🛠 **Technologies Used**
+**React.js** – Component-based frontend framework
+
+**Axios** – For making HTTP requests to the GitHub API
+
+**CSS Flexbox** – For clean, responsive layout and design
+
 ![Screenshot 2025-05-06 230827](https://github.com/user-attachments/assets/d1ec7f1b-c3e0-417b-902c-13ea11bd831d)
 ![Screenshot 2025-05-06 230848](https://github.com/user-attachments/assets/15a1fd9b-7db4-416a-a04e-f039e3455354)
 ![Screenshot 2025-05-06 230905](https://github.com/user-attachments/assets/00298027-7efa-4a49-ba05-d8bc3508cf15)
